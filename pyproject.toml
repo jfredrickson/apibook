@@ -1,0 +1,4 @@
+[tool.pyright]
+reportGeneralTypeIssues = false
+reportOptionalCall = false
+reportOptionalMemberAccess = false
